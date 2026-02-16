@@ -2,6 +2,17 @@
 
 This project is a video streaming platform inspired by popular video-sharing applications. It is built using modern front-end technologies, including React, Redux Toolkit, TailwindCSS, and other libraries.
 
+For the UI layer, I am using Tailwind CSS for styling.
+
+Why Tailwind?
+> It is a modern utility-first CSS framework that allows faster development and helps build clean and responsive interfaces efficiently.
+
+I am using Redux Toolkit for state management across the application.
+
+React Router DOM is used for client-side routing.
+
+Jest and React Testing Library are used for testing.
+
 📌 Video content and metadata are powered by the YouTube Data API, used in compliance with YouTube’s Terms of Service.
 
 ## Features
