@@ -7,7 +7,7 @@ For the UI layer, I am using Tailwind CSS for styling.
 Why Tailwind?
 > It is a modern utility-first CSS framework that allows faster development and helps build clean and responsive interfaces efficiently.
 
-I am using Redux Toolkit for state management across the application.
+I am using Redux Toolkit for Data management across the application.
 
 React Router DOM is used for client-side routing.
 
