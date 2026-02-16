@@ -1,6 +1,6 @@
 # Streamify – Video Streaming Platform
 
-This project is a video streaming platform inspired by popular video-sharing applications, developed as a part of Akshay Saini's Namaste React course. It is built using modern front-end technologies, including React, Redux Toolkit, TailwindCSS, and other libraries.
+This project is a video streaming platform inspired by popular video-sharing applications. It is built using modern front-end technologies, including React, Redux Toolkit, TailwindCSS, and other libraries.
 
 📌 Video content and metadata are powered by the YouTube Data API, used in compliance with YouTube’s Terms of Service.
 
